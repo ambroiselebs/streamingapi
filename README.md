@@ -3,8 +3,10 @@
 
 # how to install it :
 
+```
 > git clone https://github.com/ambroiselebs/streamingapi
 > Setup a database and connect it in the includes/dbh.inc.php file
+```
 
 ### The databse need to contain :
 
