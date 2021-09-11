@@ -17,8 +17,10 @@ iframe : varchar(258)
 
 ### Add an episode : 
 
+```
 > Put the iframe code in the iframe field (the id will complete itself)
 > The buttons must point to example.php?id=the_id_you_want
+```
 
 #### Example : 
 
