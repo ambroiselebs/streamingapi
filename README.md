@@ -1,7 +1,7 @@
 # Author :
 * ambroiselebs
 
-_# how to install it :
+# how to install it :
 
 ```
 > git clone https://github.com/ambroiselebs/streamingapi
