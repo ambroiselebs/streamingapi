@@ -1,7 +1,7 @@
-# Author :
+_# Author :
 * ambroiselebs
 
-# how to install it :
+_# how to install it :
 
 ```
 > git clone https://github.com/ambroiselebs/streamingapi
@@ -15,7 +15,7 @@ id : int(11) primary auto_increment
 iframe : varchar(258)
 ```
 
-# How to use it :
+_# How to use it :
 
 ### Add an episode : 
 
